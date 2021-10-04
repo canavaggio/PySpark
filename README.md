@@ -1,2 +1,2 @@
-PySpark notebook about Machine Learning. Boston's houses prediction, and 
+PySpark notebook about Machine Learning.
 
